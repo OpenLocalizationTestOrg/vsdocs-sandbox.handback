@@ -1,0 +1,27 @@
+{  
+   "Filters":[  
+      {  
+         "Files":[  
+            "api/mref.yml" 
+         ],
+         "Priorities":[  
+            {  
+               "Priority":"HT",
+               "Locales":[  
+                  "de-de"              
+               ],
+               "Type":"HT"
+            }
+         ]
+      }
+   ],
+   "IncludeDependencies":false,
+   "AutoPush":true,
+   "XliffVersion":"1.2",
+   "MarkdownTransformerOptions":{  
+      "preset":"CnE",
+      "yamlFilter": "dotnet-intellisense"
+   },
+   "AutoHandbackNoChangeXliff":true,
+   "TranslationSysFileDestination":"HandbackRepo"
+}
