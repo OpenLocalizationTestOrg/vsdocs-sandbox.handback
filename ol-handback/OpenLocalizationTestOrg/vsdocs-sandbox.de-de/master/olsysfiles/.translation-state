@@ -1,0 +1,22 @@
+{
+  "LastProcessedCommit": "86a958250826518cbf6d4d51c3836384f6b77576",
+  "LastConfigHash": "6c35ce431f9180eeb979d18efe7ee0d758f9664c",
+  "Items": {
+    "09e252dcfab7e36dcf89a8c899918aa43e38d1a9": {
+      "FileHash": "09e252dcfab7e36dcf89a8c899918aa43e38d1a9",
+      "SourceFileCommit": "86a958250826518cbf6d4d51c3836384f6b77576",
+      "SourceFilePath": "api\\mref.yml",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "api\\mref.yml"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\vsdocs-sandbox.de-de\\master\\ht\\mref.2c76ae4add279f4bddba7cfb854feaafc9cecf62.de-de.xlf",
+      "HandoffFileCommit": "c2c387c66cc7f72fd70bec3d75e195018e65a3e1",
+      "HandoffDateTime": "2018-01-16T09:47:15.1497Z",
+      "HandoffXliffHash": "da1e1c262fe4c4e33c992ac02c744325093443c3",
+      "HandoffPriority": "ht"
+    }
+  }
+}
